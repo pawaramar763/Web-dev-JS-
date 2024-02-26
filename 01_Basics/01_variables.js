@@ -11,3 +11,20 @@ accountCity = "Mumbai";
 console.log(accountId);
 
 console.table([accountId, accountEmail, accountPassword, accountCity])
+
+const accNum = 6541653;
+let accEmail = 'abc@gmail.com';
+var accType = 'saving'
+
+// accNum = 4545;
+console.log(accNum);
+
+
+if(true){
+    let a=200;
+    console.log(a);
+}console.log(`=====`);
+// console.log(a);
+
+let msg;
+console.log(msg);

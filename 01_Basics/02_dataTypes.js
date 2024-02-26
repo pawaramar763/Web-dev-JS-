@@ -16,7 +16,11 @@ console.log(typeof "hello");  //string
 
 console.log(typeof null);   // object
 console.log(typeof undefined);  //undefined
+console.log(typeof NaN);  //nummber
 
 
 
 //object
+
+ let a = [100,200,300]
+ console.log(typeof a); //object

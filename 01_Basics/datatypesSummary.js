@@ -33,3 +33,27 @@ const myFunction = function(){
     console.log(`Hello World`);
 }
 myFunction()
+
+
+
+let myYoutube = "MyYo";
+
+let anotherName = myYoutube;
+
+ anotherName = "mi and you" 
+
+console.log(anotherName);
+console.log(myYoutube);
+
+
+let user = {
+    email: "user@gmail.com",
+    age :30
+}
+
+let userTwo = user;
+
+userTwo.age = 40;
+
+console.log(user.age);
+console.log(userTwo.age);
